@@ -90,7 +90,7 @@ Me ha inculcado un enfoque profundo en el **rendimiento y la eficiencia**. No so
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,neovim,vim,git,c" />
+    <img src="https://skillicons.dev/icons?i=linux,neovim,git" />
   </a>
 </p>
 
