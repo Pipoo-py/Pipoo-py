@@ -34,7 +34,6 @@ It has instilled in me a profound focus on **performance and efficiency**. I don
 </p>
 
 ---
----
   ### Learning for hobby
   <p align="center">
   <a href="https://skillicons.dev">
@@ -96,7 +95,6 @@ Me ha inculcado un enfoque profundo en el **rendimiento y la eficiencia**. No so
   </a>
 </p>
 
----
 ---
   ### Aprendiendo por hobby
   <p align="center">
