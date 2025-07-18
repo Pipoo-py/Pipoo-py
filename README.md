@@ -25,11 +25,11 @@ It has instilled in me a profound focus on **performance and efficiency**. I don
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,sqlite,postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=go,sqlite,mysql" />
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,neovim,vim,git,docker,c" />
+    <img src="https://skillicons.dev/icons?i=linux,neovim,vim,git,c" />
   </a>
 </p>
 
@@ -80,11 +80,11 @@ Me ha inculcado un enfoque profundo en el **rendimiento y la eficiencia**. No so
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,sqlite,postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=go,sqlite,mysql" />
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,neovim,vim,git,docker,c" />
+    <img src="https://skillicons.dev/icons?i=linux,neovim,vim,git,c" />
   </a>
 </p>
 
