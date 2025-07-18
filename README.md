@@ -40,7 +40,6 @@ It has instilled in me a profound focus on **performance and efficiency**. I don
     <img src="https://skillicons.dev/icons?i=vim,c" />
   </a>
 </p>
----
 
 ### 🌱 What I'm Currently Focusing On
 
@@ -102,7 +101,6 @@ Me ha inculcado un enfoque profundo en el **rendimiento y la eficiencia**. No so
     <img src="https://skillicons.dev/icons?i=vim,c" />
   </a>
 </p>
----
 
 ### 🌱 En Qué Estoy Enfocado Ahora
 
